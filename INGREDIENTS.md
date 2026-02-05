@@ -3,7 +3,6 @@
 - [ ] Potassium Chloride
 - [ ] Trisodium Citrate
 - [ ] Magnesium Malate
-- [ ] Calcium Citrate
 - [ ] Zinc Picolinate or Bisglycinate
 - [x] Taurine
 - [ ] Citric Acid
@@ -12,5 +11,6 @@
 
 ### Maybe
 - [ ] Erythritol / Xylitol
+- [ ] Malic acid (for taste)
 - [ ] Flavouring
 - [ ] Sodium Gluconate (for taste)
