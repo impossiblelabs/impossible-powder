@@ -1,10 +1,12 @@
 ## Ingredients
-- [ ] Sodium citrate or chloride blend
-- [ ] Potassium citrate
-- [ ] Magnesium malate
-- [ ] Calcium citrate
-- [ ] Zync bisglycinate
+- [ ] Tripotassium Citrate
+- [ ] Potassium Chloride
+- [ ] Trisodium Citrate
+- [ ] Magnesium Malate
+- [ ] Calcium Citrate
+- [ ] Zinc Picolinate
 - [x] Taurine
-- [ ] Chloride
-- [x] Ascorbic acid
-- [ ] Citric acid
+- [ ] Citric Acid
+- [x] Ascorbic Acid
+- [ ] Stevia Reb-A 97%
+- [ ] Erythritol
