@@ -9,4 +9,8 @@
 - [ ] Citric Acid
 - [x] Ascorbic Acid
 - [ ] Stevia Reb-A 97%
-- [ ] Erythritol
+
+### Maybe
+- [ ] Erythritol / Xylitol
+- [ ] Flavouring
+- [ ] Sodium Gluconate (for taste)
