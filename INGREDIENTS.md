@@ -4,7 +4,7 @@
 - [ ] Trisodium Citrate
 - [ ] Magnesium Malate
 - [ ] Calcium Citrate
-- [ ] Zinc Picolinate
+- [ ] Zinc Picolinate or Bisglycinate
 - [x] Taurine
 - [ ] Citric Acid
 - [x] Ascorbic Acid
