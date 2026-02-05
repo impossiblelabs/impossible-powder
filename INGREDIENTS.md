@@ -2,6 +2,7 @@
 - [ ] Tripotassium Citrate
 - [ ] Potassium Chloride
 - [ ] Trisodium Citrate
+- [ ] Calcium Citrate
 - [ ] Magnesium Malate
 - [ ] Zinc Picolinate or Bisglycinate
 - [x] Taurine
