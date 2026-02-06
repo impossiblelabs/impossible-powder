@@ -1,6 +1,5 @@
 ## Ingredients
 - [ ] Tripotassium Citrate
-- [ ] ~~Potassium Chloride~~
 - [ ] Trisodium Citrate
 - [ ] Calcium Citrate
 - [ ] Magnesium Malate
@@ -10,10 +9,13 @@
 - [x] Ascorbic Acid
 - [ ] Stevia Reb-A 97%
 
-### Maybe
+### Maybe (to improve taste)
 - [ ] Erythritol / Xylitol
-- [ ] Malic acid (for taste)
-- [ ] Flavouring
-- [ ] Sodium Gluconate (for taste)
-- [ ] Calcium Chloride
+- [ ] Malic acid 
+- [ ] Maltodextrin Flavouring
+- [ ] Sodium Gluconate
 - [ ] Sodium Chloride
+
+### Discarded
+- [ ] ~~Calcium Chloride~~ (too hygroscopic)
+- [ ] ~~Potassium Chloride~~ (bad taste)
