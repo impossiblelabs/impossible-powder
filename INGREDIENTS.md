@@ -1,6 +1,6 @@
 ## Ingredients
 - [ ] Tripotassium Citrate
-- [ ] Potassium Chloride
+- [ ] ~~Potassium Chloride~~
 - [ ] Trisodium Citrate
 - [ ] Calcium Citrate
 - [ ] Magnesium Malate
