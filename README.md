@@ -19,7 +19,7 @@ During resistance training, sweat loss is lower, but mineral turnover (especiall
 | Trisodium Citrate              | 745 mg       | Helps improve overall mineral bioavailability and hydration without GI issues                                                                                           |
 | Sodium Chloride                | 150 mg       | Replaces sodium lost in sweat without pushing endurance-level doses                                                                                                     |
 | Magnesium Malate               | 1,000 mg     | Malate feeds the Krebs cycle for ATP production; magnesium supports force output and recovery. Research shows improved quadriceps torque with adequate magnesium intake |
-| Zinc Picolinate                | 58 mg        | Highly bioavailable form of zinc; supports testosterone production, protein synthesis and immune function. Roughly 1 in 5 athletes are deficient                       |
+| Zinc Bisglycinate                | 58 mg        | Highly bioavailable form of zinc; supports testosterone production, protein synthesis and immune function. Roughly 1 in 5 athletes are deficient                       |
 | L-Taurine                      | 1,000 mg     | Supports training volume and recovery; associated with reduced muscle damage markers and improved lactate handling                                                      |
 | Citric Acid                    | 200 mg       | Provides sharp acidity, improves solubility                                                                                                                             |
 | Malic Acid                     | 250 mg       | Smoother sourness and additional Krebs cycle support; pairs with magnesium malate                                                                                       |
@@ -29,6 +29,8 @@ During resistance training, sweat loss is lower, but mineral turnover (especiall
 | **Total (before flavoring)**   | **5,633 mg** |                                                                                                                                                                         |
 
 **Serving size:** ~5.5–6.5 g mixed into 500 ml–1 L of water
+
+> Note: The formula's citrate load (~1g total citrate) produces a modest alkalinizing effect that is protective against kidney stones and mildly supportive of exercise buffering. The solution is hypotonic (~125 mOsm/kg in 500 mL), which promotes rapid fluid absorption: ideal for strength training where energy delivery via carbohydrate path is unnecessary.
 
 ### Nutrition Facts
 
@@ -51,7 +53,7 @@ During resistance training, sweat loss is lower, but mineral turnover (especiall
 | Performance amino            | L-Taurine                          | 1,000 mg     | 17.8%        |
 | Sweeteners                   | Erythritol + Stevia                | 1,540 mg     | 27.3%        |
 | Acidifiers                   | Citric + Malic Acid                | 450 mg       | 8.0%         |
-| Mineral active               | Zinc Picolinate                    | 58 mg        | 1.0%         |
+| Mineral active               | Zinc Bisglycinate                    | 58 mg        | 1.0%         |
 | **Total (before flavoring)** |                                    | **5,633 mg** | **100%**     |
 
 ### Taste & Sweeteners
