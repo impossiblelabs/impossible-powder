@@ -1,21 +1,23 @@
 ## Ingredients
-- [ ] Tripotassium Citrate
-- [ ] Trisodium Citrate
-- [ ] Calcium Citrate
-- [ ] Magnesium Malate
-- [ ] Zinc Picolinate or Bisglycinate
-- [x] Taurine
-- [ ] Citric Acid
-- [x] Ascorbic Acid
-- [ ] Stevia Reb-A 97%
+- Tripotassium Citrate
+- Potassium Chloride
+- Trisodium Citrate
+- Sodium Chloride
+- Magnesium Malate
+- Zinc Picolinate
+- L-Taurine
+- Citric Acid
+- Malic Acid
+- Stevia Reb-A 97%
+- Erythritol
 
-### Maybe (to improve taste)
-- [ ] Erythritol / Xylitol
-- [ ] Malic acid 
-- [ ] Maltodextrin Flavouring
-- [ ] Sodium Gluconate
-- [ ] Sodium Chloride
+### Maybe
+- Maltodextrin Flavouring
+- Sodium Gluconate
 
 ### Discarded
-- [ ] ~~Calcium Chloride~~ (too hygroscopic)
-- [ ] ~~Potassium Chloride~~ (bad taste)
+- ~~Calcium Citrate~~ (only traces of calcium)
+- ~~Calcium Chloride~~ (too hygroscopic)
+- ~~Ascorbic Acid~~ (interferes with strength adaptations)
+- ~~Xylitol~~ (erythritol chosen — better GI tolerance)
+- ~~Potassium Chloride~~ (bad taste)
