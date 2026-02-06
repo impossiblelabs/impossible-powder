@@ -1,16 +1,20 @@
+# Found
 ## Leochem
+### Main
 - TRIPOTASSIUM CITRATE
 - TRISODIUM CITRATE
+- SODIUM CHLORIDE
 - CITRIC ACID
 - MALIC ACID
+
+### Maybe
 - SODIUM GLUCONATE
-- CALCIUM CHLORIDE
-- SODIUM CHLORIDE
 
 # Missing
-- Calcium Citrate
 - Magnesium Malate
 - Zinc Bisglycinate
+- (Taurine)
+- Copper Gluconate / Copper Bisglycinate
 - Stevia
 - Erythritol / Xylitol
 - Flavouring
