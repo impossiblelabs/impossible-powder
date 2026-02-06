@@ -86,18 +86,18 @@ The overall sweet-sour balance leans tart — this is intentional. Electrolyte d
 > Worth noting: citrus flavors (lemon/lime, orange) do a much better job masking mineral taste than vanilla or creamy (chocolate, milk) profiles
 
 ## Competitive Positioning
-
-| Nutrient         | Impossible Powder | Ultima  | LMNT         | Drip Drop   | Gatorade  |
-| ---------------- | ----------------- | ------- | ------------ | ----------- | --------- |
-| Sodium           | 234 mg            | 55 mg   | 1,000 mg     | 330 mg      | 160 mg    |
-| **Potassium**    | **300 mg**        | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
-| **Magnesium**    | **120 mg**        | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
-| Chloride         | 91 mg             | 0 mg    | 1,580 mg     | 490 mg      | 0 mg      |
-| **Zinc**         | **10 mg**         | trace   | 0 mg         | 0 mg        | 0 mg      |
-| **Copper**       | **1 mg**          | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
-| **Taurine**      | **1,000 mg**      | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
-| Serving size     | ~7.5 g            | 3.4 g   | 6 g          | 8 g         | 12 g      |
-| Target use       | Strength training | General | Keto/Fasting | Rehydration | Endurance |
+| Nutrient         | Impossible Powder | Ultima  | LMNT         | Liquid IV   | Liquid IV Sugar Free | Drip Drop   | Gatorade  |
+| ---------------- | ----------------- | ------- | ------------ | ----------- | -------------------- | ----------- | --------- |
+| Sodium           | 234 mg            | 55 mg   | 1,000 mg     | 500 mg      | 530 mg               | 330 mg      | 160 mg    |
+| **Potassium**    | **300 mg**        | 250 mg  | 200 mg       | 370 mg      | 370 mg               | 185 mg      | 50 mg     |
+| **Magnesium**    | **120 mg**        | 100 mg  | 60 mg        | 0 mg        | 0 mg                 | 39 mg       | 0 mg      |
+| Chloride         | 91 mg             | 0 mg    | 1,580 mg     | —           | —                    | 490 mg      | 0 mg      |
+| **Zinc**         | **10 mg**         | trace   | 0 mg         | 0 mg        | 0 mg                 | 0 mg        | 0 mg      |
+| **Copper**       | **1 mg**          | 0 mg    | 0 mg         | 0 mg        | 0 mg                 | 0 mg        | 0 mg      |
+| **Taurine**      | **1,000 mg**      | 0 mg    | 0 mg         | 0 mg        | 0 mg                 | 0 mg        | 0 mg      |
+| Sugar            | 0 g               | 0 g     | 0 g          | 11 g        | 0 g                  | 7 g         | 12 g      |
+| Serving size     | ~7.5 g            | 3.4 g   | 6 g          | 16 g        | 13 g                 | 8 g         | 12 g      |
+| Target use       | Strength training | General | Keto/Fasting | Rehydration | Rehydration          | Rehydration | Endurance |
 
 ## Regulatory Side
 
@@ -150,3 +150,4 @@ All minerals remain within EFSA Tolerable Upper Intake Levels at the maximum rec
 - "Food supplements should not be used as a substitute for a varied and balanced diet"
 - "Keep out of reach of young children"
 - "All nutrient amounts declared per serving with % NRV (Regulation (EU) No 1169/2011)"
+
