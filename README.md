@@ -11,6 +11,8 @@ During resistance training, sweat loss is lower, but mineral turnover (especiall
 
 ## Formula
 
+- [ ] Copper (Bis)glycinate to be added
+
 ### Ingredient Breakdown
 
 | Ingredient                     | Amount       | Why it's here                                                                                                                                                           |
