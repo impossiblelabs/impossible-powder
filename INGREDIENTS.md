@@ -1,10 +1,9 @@
 ## Ingredients
 - Tripotassium Citrate
-- Potassium Chloride
 - Trisodium Citrate
 - Sodium Chloride
 - Magnesium Malate
-- Zinc Picolinate
+- Zinc Bisglycinate
 - L-Taurine
 - Citric Acid
 - Malic Acid
