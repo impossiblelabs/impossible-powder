@@ -2,105 +2,89 @@
 
 ## TL;DR
 
-**An electrolyte powder built to lift, not to run a marathon.**
+**An electrolyte powder specifically made for strength training**
 
-Most electrolyte products feature high sodium and sugar content because they're designed for cardio and atlethes who sweat for hours. Power lifters don't need that!
-What we actually lose during strength training and what the research says matters for power output and recovery,is magnesium and zinc. 
+Most electrolyte mixes are built for long cardio sessions. That’s why they’re heavy on sodium and sugar. If you hit the gym and lift weights, that approach doesn’t really match what you’re doing.
+During resistance training, sweat loss is lower, but mineral turnover (especially magnesium and zinc) still matters for performance and recovery.
 
-> Impossible Powder flips the script: low sodium, high magnesium, added zinc and a dose of taurine for recovery. No sugar, no vitamin C megadoses that blunt your gains.
+Impossible Powder keeps sodium and sugars modest while provides what you most need to support training volume and recovery. No empty sugar, no filler vitamins and no vitamin C mega-doses that interfere with strength adaptations.
 
 ## Formula
 
 ### Ingredient Breakdown
 
-| Ingredient | Amount | Evidence-based Benefit |
-|------------|--------|------------------------|
-| Tripotassium Citrate | 690 mg | Citrate form alkalizes blood pH, enhances mineral absorption, supports neuromuscular function |
-| Potassium Chloride | 420 mg | Completes chloride for fluid balance, additional potassium supports muscle contraction and nerve transmission |
-| Trisodium Citrate | 745 mg | Citrate improves bioavailability of other minerals, supports fluid balance without GI issues |
-| Magnesium Malate | 1,000 mg | Malic acid directly feeds Krebs cycle → ATP production. Studies show improved quadriceps torque (+29%) with adequate Mg. Clears lactate from muscles. |
-| Calcium Citrate | 285 mg | Absorbed without stomach acid (can take any time), supports muscle contraction and nerve signaling |
-| Zinc Picolinate | 58 mg | 40%+ absorption rate. Supports testosterone synthesis, protein synthesis, immune function. 22% of athletes are deficient. |
-| L-Taurine | 1,500 mg | 68% of studies show benefits. Reduces muscle damage markers (CK, LDH), increases training volume, reduces lactate, cell volumizing effect. |
-| Citric Acid | 400 mg | Provides tart flavor, improves solubility, creates optimal pH for mineral absorption |
-| Ascorbic Acid | 25 mg | Low-dose preservative/antioxidant. Does NOT impair training adaptations at this dose (unlike high-dose 500mg+). |
-| Stevia Reb-A 97% | 40 mg | Zero glycemic impact, no effect on insulin, cleanest aftertaste at high purity |
-| Erythritol | 1,500 mg | Zero calories, zero glycemic impact, no GI distress, provides body and mouthfeel |
-| **TOTAL** | **6,663 mg** | |
+| Ingredient                     | Amount       | Why it’s here                                                                                                                                                           |
+| ------------------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tripotassium Citrate           | 690 mg       | Citrate form improves mineral absorption and supports neuromuscular function                                                                                            |
+| Potassium Chloride             | 420 mg       | Adds chloride for fluid balance; potassium supports muscle contraction and nerve signaling                                                                              |
+| Trisodium Citrate              | 745 mg       | Helps improve overall mineral bioavailability and hydration without GI issues                                                                                           |
+| Sodium Chloride                | 150 mg       | Replaces sodium lost in sweat without pushing endurance-level doses                                                                                                     |
+| Magnesium Malate               | 1,000 mg     | Malate feeds the Krebs cycle for ATP production; magnesium supports force output and recovery. Research shows improved quadriceps torque with adequate magnesium intake |
+| Zinc Picolinate                | 58 mg        | Highly bioavailable form of zinc; supports testosterone production, protein synthesis and immune function. Roughly 1 in 5 athletes are deficient                       |
+| L-Taurine                      | 1,500 mg     | Supports training volume and recovery; associated with reduced muscle damage markers and improved lactate handling                                                      |
+| Citric Acid                    | 200 mg       | Provides sharp acidity, improves solubility                                                                                                                             |
+| Malic Acid                     | 250 mg       | Smoother sourness and additional Krebs cycle support; pairs with magnesium malate                                                                                       |
+| Stevia Reb-A (97%)             | 40 mg        | Non-caloric sweetness with minimal aftertaste at higher purity                                                                                                          |
+| Erythritol                     | 1,500 mg     | Adds body and mouthfeel; zero calories and no glycemic impact                                                                                                           |
+| Flavoring (maltodextrin-based) | TBD          | Used only for flavor masking                                                                                                                                            |
+| **Total (before flavoring)**   | **6,553 mg** |                                                                                                                                                                         |
 
-**Serving size:** ~6.6g powder mixed into 500ml or 1l of water
+**Serving size:** ~6.5–7.5 g mixed into 500 ml–1 L of water
 
-### Nutrition Facts — Vitamins & Minerals
+### Nutrition Facts
 
-| Nutrient | Amount per Serving | % of Product (by weight) | % Daily Value (RDA) |
-|----------|-------------------|-------------------------|---------------------|
-| Sodium | 175 mg | 2.6% | 8% |
-| Potassium | 470 mg | 7.1% | 10% |
-| Magnesium | 150 mg | 2.3% | 36% |
-| Calcium | 60 mg | 0.9% | 5% |
-| Chloride | 200 mg | 3.0% | 9% |
-| Zinc | 12 mg | 0.2% | 109% |
-| Vitamin C | 25 mg | 0.4% | 28% |
-| Taurine | 1,500 mg | 22.5%* | — |
+| Nutrient  | Amount per Serving | % of Product (by weight) | % Daily Value |
+| --------- | ------------------ | ------------------------ | ------------- |
+| Sodium    | 234 mg             | 3.6%                     | 10%           |
+| Potassium | 470 mg             | 7.2%                     | 10%           |
+| Magnesium | 150 mg             | 2.3%                     | 36%           |
+| Chloride  | 291 mg             | 4.4%                     | 13%           |
+| Zinc      | 12 mg              | 0.2%                     | 109%          |
+| Taurine*  | 1,500 mg           | 22.9%                    | —             |
 
-> Taurine has no established RDA. Effective dose range: 1-3g/day per ISSN research.*
+*Taurine does not have an established RDA. Effective intake range in performance research is typically 1–3 g/day.
 
 ### Product Composition by Weight
 
-| Category | Ingredients | Weight | % of Serving |
-|----------|-------------|--------|--------------|
-| Electrolyte salts | Tripotassium Citrate, Potassium Chloride, Trisodium Citrate, Magnesium Malate, Calcium Citrate | 3,140 mg | 47.1% |
-| Performance amino | L-Taurine | 1,500 mg | 22.5% |
-| Sweeteners | Erythritol + Stevia | 1,540 mg | 23.1% |
-| Flavor / Acidifier | Citric Acid | 400 mg | 6.0% |
-| Mineral (active) | Zinc Picolinate | 58 mg | 0.9% |
-| Preservative | Ascorbic Acid | 25 mg | 0.4% |
-| **TOTAL** | | **6,663 mg** | **100%** |
+| Category                     | Ingredients                        | Weight       | % of Serving |
+| ---------------------------- | ---------------------------------- | ------------ | ------------ |
+| Electrolyte salts            | Potassium, sodium, magnesium salts | 3,005 mg     | 45.9%        |
+| Performance amino            | L-Taurine                          | 1,500 mg     | 22.9%        |
+| Sweeteners                   | Erythritol + Stevia                | 1,540 mg     | 23.5%        |
+| Acidifiers                   | Citric + Malic Acid                | 450 mg       | 6.9%         |
+| Mineral active               | Zinc Picolinate                    | 58 mg        | 0.9%         |
+| **Total (before flavoring)** |                                    | **6,553 mg** | **100%**     |
 
 ### Taste & Sweeteners
 
-The formula uses stevia (Reb A) + erythritol — same approach as Ultima, Key Nutrients and most credible zero-sugar competitors.
+The sweetener system mirrors what most zero-sugar electrolyte brands already use: stevia plus erythritol.
 
-- **Stevia (30-50mg):** Provides sweetness without calories or blood sugar impact. Reb A is the cleanest-tasting steviol glycoside.
-- **Erythritol (1-1.5g):** Adds body and mouthfeel that stevia alone can't deliver. Zero glycemic index, no GI distress (unlike maltitol or sorbitol) and about 70% as sweet as sugar.
+* **Stevia (40 mg):** High-purity Reb-A minimizes bitterness
+* **Erythritol (1.5 g):** Adds body and smoothness without GI issues common to other sugar alcohols
+* **Dual-acid system:** Citric acid gives immediate brightness; malic acid provides a smoother, longer-lasting sourness and aligns with the magnesium malate used in the formula
 
-Citrus flavor profiles (lemon-lime, orange) tend to mask mineral taste better than berry. The citric acid already in the formula helps here.
+> Citrus flavors (lemon/lime, orange) tend to mask mineral notes better than berry profiles.
 
 ## Competitive Positioning
 
-| Nutrient | Impossible Powder | Ultima | LMNT | Drip Drop | Gatorade |
-|----------|--------------|--------|------|-----------|----------|
-| Sodium | 175 mg | 55 mg | 1,000 mg | 330 mg | 160 mg |
-| **Potassium** | **470 mg** | 250 mg | 200 mg | 185 mg | 50 mg |
-| **Magnesium** | **150 mg** | 100 mg | 60 mg | 39 mg | 0 mg |
-| Calcium | 60 mg | 65 mg | 0 mg | 0 mg | 0 mg |
-| **Chloride** | **200 mg** | 0 mg | 1,580 mg | 490 mg | 0 mg |
-| **Zinc** | **12 mg** | trace | 0 mg | 0 mg | 0 mg |
-| **Taurine** | **1,500 mg** | 0 mg | 0 mg | 0 mg | 0 mg |
-| Target Use | **Strength** | General | Keto/Fasting | Rehydration | Endurance |
+| Nutrient     | Impossible Powder | Ultima  | LMNT         | Drip Drop   | Gatorade  |
+| ------------ | ----------------- | ------- | ------------ | ----------- | --------- |
+| Sodium       | 234 mg            | 55 mg   | 1,000 mg     | 330 mg      | 160 mg    |
+| Potassium    | 470 mg            | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
+| Magnesium    | 150 mg            | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
+| Chloride     | 291 mg            | 0 mg    | 1,580 mg     | 490 mg      | 0 mg      |
+| Zinc         | 12 mg             | trace   | 0 mg         | 0 mg        | 0 mg      |
+| Taurine      | 1,500 mg          | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
+| Serving size | ~6.5–7.5 g        | 3.4 g   | 6 g          | 8 g         | 12 g      |
+| Target use   | Strength training | General | Keto/Fasting | Rehydration | Endurance |
 
-**Where impossible is possible:**
-- Highest potassium on market (470mg)
-- Highest magnesium in the category (150mg vs. typical 20-100mg)
-- Only formula with meaningful zinc dosing (12mg vs. "trace" or nothing)
-- Only formula with taurine for recovery
-- Balanced chloride supply
-- Low sodium by design, not by accident
+**Where Impossible Powder stands out**
 
-> Electrolytes finally made for people who lift. Not runners, not cyclists, not people doing zumba.
+* Higher potassium than any major competitor
+* Magnesium dosed meaningfully and in malate form
+* Zinc included at a full daily value
+* Taurine added at an evidence-supported dose
+* Acid system designed for both taste and metabolism
+* Sodium kept intentionally moderate for lifting, not endurance
 
-## To Do
-
-### Taste Testing
-- Need to prototype 2-3 flavor profiles (lemon-lime, citrus punch, unflavored) and get feedback on mineral aftertaste
-- Test stevia/erythritol ratios — some people are sensitive to stevia's bitter notes at higher concentrations
-- Evaluate monk fruit as a stevia alternative or blend component
-
-### Solubility & Mixability
-- Magnesium malate and taurine are both water-soluble, but need to verify the full formula dissolves cleanly in cold water without clumping
-- Test dissolution time — target under 30 seconds with light stirring
-- Check if citric acid level is sufficient to keep everything in solution or if we need to adjust
-
-### Regulatory
-* [] Confirm label claims for "supports muscle recovery" / "strength training" don't cross into drug claim territory
-* [] Verify all ingredients and doses are GRAS at specified levels
+> Electrolytes built around what actually happens in the gym, not a marathon.
