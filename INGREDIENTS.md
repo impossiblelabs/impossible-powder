@@ -15,3 +15,5 @@
 - [ ] Malic acid (for taste)
 - [ ] Flavouring
 - [ ] Sodium Gluconate (for taste)
+- [ ] Calcium Chloride
+- [ ] Sodium Chloride
