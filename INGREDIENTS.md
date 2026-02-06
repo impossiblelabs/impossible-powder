@@ -13,10 +13,11 @@
 ### Maybe
 - Maltodextrin Flavouring
 - Sodium Gluconate
+- Xylitol
+- Copper Gluconate / Copper Bisglycinate
 
 ### Discarded
 - ~~Calcium Citrate~~ (only traces of calcium)
 - ~~Calcium Chloride~~ (too hygroscopic)
 - ~~Ascorbic Acid~~ (interferes with strength adaptations)
-- ~~Xylitol~~ (erythritol chosen — better GI tolerance)
 - ~~Potassium Chloride~~ (bad taste)
