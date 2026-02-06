@@ -7,13 +7,13 @@
 Most electrolyte mixes are built for long cardio sessions. That’s why they’re heavy on sodium and sugar. If you hit the gym and lift weights, that approach doesn’t really match what you’re doing.
 During resistance training, sweat loss is lower, but mineral turnover (especially magnesium and zinc) still matters for performance and recovery.
 
-Impossible Powder keeps sodium and sugars modest while provides what you most need to support training volume and recovery. No empty sugar, no filler vitamins and no vitamin C mega-doses that interfere with strength adaptations.
+> Impossible Powder keeps sodium and sugars modest while provides what you most need to support training volume and recovery. No empty sugar, no filler vitamins and no vitamin C mega-doses that interfere with strength adaptations.
 
 ## Formula
 
 ### Ingredient Breakdown
 
-| Ingredient                     | Amount       | Why it’s here                                                                                                                                                           |
+| Ingredient                     | Amount       | Why it's here                                                                                                                                                           |
 | ------------------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tripotassium Citrate           | 690 mg       | Citrate form improves mineral absorption and supports neuromuscular function                                                                                            |
 | Potassium Chloride             | 420 mg       | Adds chloride for fluid balance; potassium supports muscle contraction and nerve signaling                                                                              |
@@ -42,7 +42,7 @@ Impossible Powder keeps sodium and sugars modest while provides what you most ne
 | Zinc      | 12 mg              | 0.2%                     | 109%          |
 | Taurine*  | 1,500 mg           | 22.9%                    | —             |
 
-*Taurine does not have an established RDA. Effective intake range in performance research is typically 1–3 g/day.
+*Taurine does not have an established RDA
 
 ### Product Composition by Weight
 
@@ -57,34 +57,25 @@ Impossible Powder keeps sodium and sugars modest while provides what you most ne
 
 ### Taste & Sweeteners
 
-The sweetener system mirrors what most zero-sugar electrolyte brands already use: stevia plus erythritol.
+The sweetener approach is stevia plus erythritol — same combo most zero-sugar electrolyte brands already landed on, because it works.
 
-* **Stevia (40 mg):** High-purity Reb-A minimizes bitterness
-* **Erythritol (1.5 g):** Adds body and smoothness without GI issues common to other sugar alcohols
-* **Dual-acid system:** Citric acid gives immediate brightness; malic acid provides a smoother, longer-lasting sourness and aligns with the magnesium malate used in the formula
+1. **Stevia (40 mg)** — We went with high-purity Reb-A specifically to cut the bitterness problem cheaper stevia extracts have.
 
-> Citrus flavors (lemon/lime, orange) tend to mask mineral notes better than berry profiles.
+2. **Erythritol (1.5 g)** — This is what gives the drink some body. Without it, you're basically drinking mineral water with flavor oil. Unlike other sugar alcohols (looking at you, sorbitol), erythritol doesn't cause GI issues at this dose.
+
+3. **Dual-acid system** — Citric acid up front for brightness, malic acid underneath for a smoother, longer sourness. The malic acid also isn't random, it pairs with the magnesium malate already in the formula, so the flavor system and the functional ingredients are pulling in the same direction.
+
+> Worth noting: citrus flavors (lemon/lime, orange) do a much better job masking mineral taste than vanilla or creamy (chocolate, milk) profiles
 
 ## Competitive Positioning
 
 | Nutrient     | Impossible Powder | Ultima  | LMNT         | Drip Drop   | Gatorade  |
 | ------------ | ----------------- | ------- | ------------ | ----------- | --------- |
 | Sodium       | 234 mg            | 55 mg   | 1,000 mg     | 330 mg      | 160 mg    |
-| Potassium    | 470 mg            | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
-| Magnesium    | 150 mg            | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
+| **Potassium**    | **470 mg**            | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
+| **Magnesium**    | **150 mg**            | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
 | Chloride     | 291 mg            | 0 mg    | 1,580 mg     | 490 mg      | 0 mg      |
-| Zinc         | 12 mg             | trace   | 0 mg         | 0 mg        | 0 mg      |
-| Taurine      | 1,500 mg          | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
+| **Zinc**         | **12 mg**             | trace   | 0 mg         | 0 mg        | 0 mg      |
+| **Taurine**      | **1,500 mg**          | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
 | Serving size | ~6.5–7.5 g        | 3.4 g   | 6 g          | 8 g         | 12 g      |
 | Target use   | Strength training | General | Keto/Fasting | Rehydration | Endurance |
-
-**Where Impossible Powder stands out**
-
-* Higher potassium than any major competitor
-* Magnesium dosed meaningfully and in malate form
-* Zinc included at a full daily value
-* Taurine added at an evidence-supported dose
-* Acid system designed for both taste and metabolism
-* Sodium kept intentionally moderate for lifting, not endurance
-
-> Electrolytes built around what actually happens in the gym, not a marathon.
