@@ -22,43 +22,84 @@ During resistance training, sweat loss is lower, but mineral turnover (especiall
 | Zinc Bisglycinate              | 48 mg        | Highly bioavailable chelated form of zinc. Dosed at 10 mg elemental to stay well within the EFSA UL of 25 mg/day when combined with dietary intake                    |
 | Copper Bisglycinate            | 5 mg         | Provides 1 mg elemental copper (100% NRV). Complements zinc supplementation by preventing zinc-induced copper depletion. Annex II–approved chelated form               |
 | L-Taurine                      | 1,000 mg     | Conditionally essential amino acid included at a research-relevant dose. Note: no EU-authorised health claims currently apply to taurine                                |
-| Citric Acid                    | 200 mg       | Provides sharp acidity, improves solubility                                                                                                                             |
-| Malic Acid                     | 250 mg       | Smoother sourness and additional Krebs cycle support; pairs with magnesium malate                                                                                       |
-| Stevia Reb-A (97%)             | 40 mg        | Non-caloric sweetness with minimal aftertaste at higher purity                                                                                                          |
-| Erythritol                     | 1,500 mg     | Adds body and mouthfeel; zero calories and no glycemic impact                                                                                                           |
-| Flavoring (maltodextrin-based) | TBD          | Used only for flavor masking                                                                                                                                            |
-| **Total (before flavoring)**   | **5,528 mg** |                                                                                                                                                                         |
+| Citric Acid                    | 600 mg       | Sharp upfront tartness, pH correction to ~5.0–5.5, improves mineral solubility                                                                                         |
+| Malic Acid                     | 500 mg       | Smoother sustained sourness, masks metallic/bitter mineral off-notes; pairs with magnesium malate for Krebs cycle support                                              |
+| Stevia Reb-A (97%)             | 50 mg        | Non-caloric sweetness equivalent to ~10–15 g sugar; high purity minimises bitter/licorice aftertaste                                                                   |
+| Erythritol                     | 2,000 mg     | Adds body and mouthfeel; suppresses stevia aftertaste; mild cooling sensation; zero calories and no glycemic impact                                                    |
+| Flavoring (maltodextrin-based) | 800 mg       | ~300 mg flavour actives + ~500 mg maltodextrin DE 10–12 carrier. Adds <2 kcal per serving. Low-DE carrier chosen to reduce hygroscopicity and Maillard browning risk   |
+| **Total**                      | **7,488 mg** |                                                                                                                                                                         |
 
-**Serving size:** ~5.5–6.5 g mixed into 500 ml–1 L of water
+**Serving size:** ~7.5 g mixed into 500 ml water
 **Recommended intake:** 1–2 servings per day
 
-> Note: The formula's citrate load (~1g total citrate) produces a modest alkalinizing effect that is protective against kidney stones and mildly supportive of exercise buffering. The solution is hypotonic (~120 mOsm/kg in 500 mL), which promotes rapid fluid absorption: ideal for strength training where energy delivery via carbohydrate path is unnecessary.
+> Note: The formula's citrate load (~1.5 g total citrate) produces a modest alkalinizing effect that is protective against kidney stones and mildly supportive of exercise buffering. The solution is hypotonic (~135 mOsm/kg in 500 mL), which promotes rapid fluid absorption: ideal for strength training where energy delivery via carbohydrate path is not wanted.
 
 ### Nutrition Facts
 
 | Nutrient   | Per Serving | Per 2 Servings | % NRV (EU) per Serving |
 | ---------- | ----------- | -------------- | ---------------------- |
-| Sodium     | 234 mg      | 468 mg         | —*                     |
+| Sodium[1]  | 234 mg      | 468 mg         | -                      |
 | Potassium  | 300 mg      | 600 mg         | 15%                    |
 | Magnesium  | 120 mg      | 240 mg         | 32%                    |
 | Chloride   | 91 mg       | 182 mg         | 11%                    |
 | Zinc       | 10 mg       | 20 mg          | 100%                   |
 | Copper     | 1 mg        | 2 mg           | 100%                   |
-| Taurine**  | 1,000 mg    | 2,000 mg       | —                      |
+| Taurine[2] | 1,000 mg    | 2,000 mg       | —                      |
 
-*Sodium has no NRV under Regulation (EU) No 1169/2011 Annex XIII
-**Taurine does not have an established NRV
+[1] Sodium has no NRV under Regulation (EU) No 1169/2011 Annex XIII
+[2] Taurine does not have an established NRV
 
 ### Product Composition by Weight
 
 | Category                     | Ingredients                        | Weight       | % of Serving |
 | ---------------------------- | ---------------------------------- | ------------ | ------------ |
-| Electrolyte salts            | Potassium, sodium, magnesium salts | 2,485 mg     | 45.0%        |
-| Performance amino            | L-Taurine                          | 1,000 mg     | 18.1%        |
-| Sweeteners                   | Erythritol + Stevia                | 1,540 mg     | 27.9%        |
-| Acidifiers                   | Citric + Malic Acid                | 450 mg       | 8.1%         |
-| Mineral actives              | Zinc + Copper Bisglycinate         | 53 mg        | 1.0%         |
-| **Total (before flavoring)** |                                    | **5,528 mg** | **100%**     |
+| Electrolyte salts            | Potassium, sodium, magnesium salts | 2,485 mg     | 33.2%        |
+| Performance amino            | L-Taurine                          | 1,000 mg     | 13.4%        |
+| Sweeteners                   | Erythritol + Stevia                | 2,050 mg     | 27.4%        |
+| Acidifiers                   | Citric + Malic Acid                | 1,100 mg     | 14.7%        |
+| Flavoring                    | Flavour actives + maltodextrin     | 800 mg       | 10.7%        |
+| Mineral actives              | Zinc + Copper Bisglycinate         | 53 mg        | 0.7%         |
+| **Total**                    |                                    | **7,488 mg** | 100%         |
+
+## Taste Architecture
+
+The taste system is designed around four layers, each solving a specific problem. Dissolved in 500 ml water, the mineral base alone tastes metallic (zinc, copper), bitter (magnesium malate), salty (sodium citrate, NaCl), and slightly soapy at alkaline pH. Every ingredient in the taste system has a job.
+
+**Acids — tartness, pH correction and mineral masking (1,100 mg)**
+
+Citric acid (600 mg) delivers the immediate sharp "pop" of sourness — the first thing you taste. Malic acid (500 mg) provides a smoother, longer-lasting sourness that specifically masks metallic and bitter off-notes better than citric acid alone. The 55:45 citric-to-malic ratio is industry standard for electrolyte beverages. Together, at a combined concentration of ~0.22% in 500 ml, they pull the solution pH down from ~8.0 to approximately **5.0–5.5** — the sweet spot for taste, tooth safety (enamel erosion kicks in below pH 4.5), and ingredient stability.
+
+**Sweeteners — sweetness, mouthfeel and aftertaste control (2,050 mg)**
+
+Stevia Reb-A 97% (50 mg) provides the primary sweetness, equivalent to roughly 10–15 g of sugar in 500 ml — deliberately light and refreshing rather than sugary. Erythritol (2,000 mg) at 0.4% concentration sits below its own sweetness threshold, so it isn't really there for sweetness. It adds body and mouthfeel to what would otherwise feel like thin mineral water, provides a mild cooling sensation that reads as "refreshing," and — critically — suppresses the bitter/licorice aftertaste that stevia carries even at high purity. This synergy is well-documented and is why the combination works where stevia alone often doesn't.
+
+**Flavoring — character and carrier (800 mg)**
+
+A spray-dried flavoring at 800 mg per serving, composed of approximately 300 mg volatile flavour compounds and 500 mg maltodextrin DE 10–12 carrier. The low dextrose equivalent carrier was chosen to minimise hygroscopicity in the dry powder (supporting the anti-caking strategy) and to reduce Maillard browning potential during storage. Adds less than 2 kcal per serving.
+
+**Flavour direction**
+
+Citrus profiles (lemon-lime, blood orange, grapefruit) are recommended for initial development. The citric-malic acid backbone matches what the palate expects from citrus, making mineral masking easiest. Berry variants (raspberry, blackcurrant) benefit from shifting the ratio slightly toward malic acid. Tropical profiles (mango, passionfruit) may require pushing stevia to 60 mg for adequate sweetness.
+
+The overall sweet-sour balance leans tart — this is intentional. Electrolyte drinks that lean sweet cause flavour fatigue during exercise, while tart-forward profiles encourage continued drinking. If testers find it too sharp, the first adjustment should be pushing stevia to 60 mg rather than reducing acid, which would compromise mineral masking and pH correction.
+
+> Worth noting: citrus flavors (lemon/lime, orange) do a much better job masking mineral taste than vanilla or creamy (chocolate, milk) profiles
+
+## Competitive Positioning
+
+| Nutrient         | Impossible Powder | Ultima  | LMNT         | Drip Drop   | Gatorade  |
+| ---------------- | ----------------- | ------- | ------------ | ----------- | --------- |
+| Sodium           | 234 mg            | 55 mg   | 1,000 mg     | 330 mg      | 160 mg    |
+| **Potassium**    | **300 mg**        | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
+| **Magnesium**    | **120 mg**        | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
+| Chloride         | 91 mg             | 0 mg    | 1,580 mg     | 490 mg      | 0 mg      |
+| **Zinc**         | **10 mg**         | trace   | 0 mg         | 0 mg        | 0 mg      |
+| **Copper**       | **1 mg**          | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
+| **Taurine**      | **1,000 mg**      | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
+| Serving size     | ~7.5 g            | 3.4 g   | 6 g          | 8 g         | 12 g      |
+| Target use       | Strength training | General | Keto/Fasting | Rehydration | Endurance |
+
+## Regulatory Side
 
 ### EU-Authorised Health Claims
 
@@ -103,35 +144,9 @@ The following claims are authorised under Commission Regulation (EU) No 432/2012
 
 All minerals remain within EFSA Tolerable Upper Intake Levels at the maximum recommended intake of 2 servings per day.
 
-### Taste & Sweeteners
-
-The sweetener approach is stevia plus erythritol — same combo most zero-sugar electrolyte brands already landed on, because it works.
-
-1. **Stevia (40 mg)** — We went with high-purity Reb-A specifically to cut the bitterness problem cheaper stevia extracts have.
-
-2. **Erythritol (1.5 g)** — This is what gives the drink some body. Without it, you're basically drinking mineral water with flavor oil. Unlike other sugar alcohols (looking at you, sorbitol), erythritol doesn't cause GI issues at this dose.
-
-3. **Dual-acid system** — Citric acid up front for brightness, malic acid underneath for a smoother, longer sourness. The malic acid also isn't random, it pairs with the magnesium malate already in the formula, so the flavor system and the functional ingredients are pulling in the same direction.
-
-> Worth noting: citrus flavors (lemon/lime, orange) do a much better job masking mineral taste than vanilla or creamy (chocolate, milk) profiles
-
 ### Mandatory EU Label Statements (Directive 2002/46/EC)
 
 - "Do not exceed the stated recommended daily dose (2 servings)"
 - "Food supplements should not be used as a substitute for a varied and balanced diet"
 - "Keep out of reach of young children"
-- All nutrient amounts declared per serving with % NRV (Regulation (EU) No 1169/2011)
-
-## Competitive Positioning
-
-| Nutrient         | Impossible Powder | Impossible (×2) | Ultima  | LMNT         | Drip Drop   | Gatorade  |
-| ---------------- | ----------------- | ---------------- | ------- | ------------ | ----------- | --------- |
-| Sodium           | 234 mg            | 468 mg           | 55 mg   | 1,000 mg     | 330 mg      | 160 mg    |
-| **Potassium**    | **300 mg**        | **600 mg**       | 250 mg  | 200 mg       | 185 mg      | 50 mg     |
-| **Magnesium**    | **120 mg**        | **240 mg**       | 100 mg  | 60 mg        | 39 mg       | 0 mg      |
-| Chloride         | 91 mg             | 182 mg           | 0 mg    | 1,580 mg     | 490 mg      | 0 mg      |
-| **Zinc**         | **10 mg**         | **20 mg**        | trace   | 0 mg         | 0 mg        | 0 mg      |
-| **Copper**       | **1 mg**          | **2 mg**         | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
-| **Taurine**      | **1,000 mg**      | **2,000 mg**     | 0 mg    | 0 mg         | 0 mg        | 0 mg      |
-| Serving size     | ~5.5–6.5 g        | ~11–13 g         | 3.4 g   | 6 g          | 8 g         | 12 g      |
-| Target use       | Strength training | Strength training| General | Keto/Fasting | Rehydration | Endurance |
+- "All nutrient amounts declared per serving with % NRV (Regulation (EU) No 1169/2011)"
