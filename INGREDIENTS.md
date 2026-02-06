@@ -4,17 +4,16 @@
 - Sodium Chloride
 - Magnesium Malate
 - Zinc Bisglycinate
+- Copper Bisglycinate / Copper Gluconate
 - L-Taurine
 - Citric Acid
 - Malic Acid
 - Stevia Reb-A 97%
-- Erythritol
+- Erythritol / Xylitol
 
 ### Maybe
 - Maltodextrin Flavouring
 - Sodium Gluconate
-- Xylitol
-- Copper Gluconate / Copper Bisglycinate
 
 ### Discarded
 - ~~Calcium Citrate~~ (only traces of calcium)
