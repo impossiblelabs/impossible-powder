@@ -10,11 +10,13 @@
 ### Maybe
 - SODIUM GLUCONATE
 
+### Supermarket
+- Erythritol / Xylitol
+- Taurine
+
 # Missing
 - Magnesium Malate
 - Zinc Bisglycinate
-- (Taurine)
 - Copper Gluconate / Copper Bisglycinate
 - Stevia
-- Erythritol / Xylitol
 - Flavouring
