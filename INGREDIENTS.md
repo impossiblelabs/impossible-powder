@@ -1,15 +1,15 @@
 ## Ingredients
-- Tripotassium Citrate
-- Trisodium Citrate
-- Sodium Chloride
-- Magnesium Malate
-- Zinc Bisglycinate
-- Copper Bisglycinate / Copper Gluconate
-- L-Taurine
-- Citric Acid
-- Malic Acid
-- Stevia Reb-A 97%
-- Erythritol / Xylitol
+- Tripotassium Citrate - 790 mg	
+- Trisodium Citrate - 745 mg	
+- Sodium Chloride - 150 mg	
+- Magnesium Malate - 800 mg	
+- Zinc Bisglycinate - 48 mg	
+- Copper Bisglycinate / Copper Gluconate - 5 mg	
+- L-Taurine - 1,000 mg	
+- Citric Acid - 600 mg	
+- Malic Acid - 500 mg	
+- Stevia Reb-A 97% - 50 mg	
+- Erythritol / Xylitol - 2,000 mg	
 
 ### Maybe
 - Maltodextrin Flavouring
