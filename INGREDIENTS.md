@@ -3,7 +3,7 @@
 - Trisodium Citrate - 745 mg	
 - Sodium Chloride - 150 mg	
 - Magnesium Malate - 800 mg	
-- Zinc Bisglycinate - 48 mg	
+- Zinc Bisglycinate - 33 mg	
 - Copper Bisglycinate / Copper Gluconate - 5 mg	
 - L-Taurine - 1,000 mg	
 - Citric Acid - 600 mg	
@@ -16,6 +16,7 @@
 - Sodium Gluconate
 
 ### Discarded
+- ~~Copper Bisglycinte~~ (not useful)
 - ~~Calcium Citrate~~ (only traces of calcium)
 - ~~Calcium Chloride~~ (too hygroscopic)
 - ~~Ascorbic Acid~~ (interferes with strength adaptations)
