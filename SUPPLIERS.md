@@ -1,22 +1,13 @@
-# Found
-## Leochem
-### Main
-- TRIPOTASSIUM CITRATE
-- TRISODIUM CITRATE
-- SODIUM CHLORIDE
-- CITRIC ACID
-- MALIC ACID
-
-### Maybe
-- SODIUM GLUCONATE
-
-### Supermarket
-- Erythritol / Xylitol
-- Taurine
-
-# Missing
-- Magnesium Malate
-- Zinc Bisglycinate
-- Copper Gluconate / Copper Bisglycinate
-- Stevia
-- Flavouring
+|Ingredient|Supplier|
+|-----|-----|
+|Tripotassium Citrate|hsnstore|
+|Trisodium Citrate|lerochem|
+|Sodium Chloride|lerochem|
+|Magnesium Malate|hsnstore|
+|Zinc Bisglycinate|synthetikaeu|
+|Taurine|hsnstore|
+|Citric Acid|hsnstore|
+|Malic Acid|hsnstore|
+|Stevia|**?**|
+|Erythritol|hsnstore|
+|Maltodextrin Flavouring|kanegrade|
